@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Ansible Tower
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django and Golang projects
 - 👯 I’m looking to collaborate on any open source c++ / Golang projects
 - 🤔 I’m looking for help with <N/A>
 - 💬 Ask me about Security / Firewall 
